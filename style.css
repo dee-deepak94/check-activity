@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+}
+.main-section {
+    border: 1px solid #BFBFBF;
+    border-radius: 10px;
+    width: 40%;
+    height: 600px;
+    margin: 35px auto;
+}
+
+.google-check {
+    margin: 20px auto;
+}
+
+.sign-in {
+    /* border: 1px solid red; */
+    /* width: 70%; */
+    margin: 50px auto 0;
+}
+
+.sign-in img {
+    width: 100px;
+    display: block;
+
+    margin: 0 auto;
+}
+
+.sign-in p {
+    font-weight: 500;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 25px;
+
+}
+
+.email-id {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.email-id img {
+width: 30px;
+border-radius: 50%;
+display: inline;
+margin-left: -25px;
+}
+
+.email-id a {
+
+    display: inline-block;
+    /* padding-bottom: 10px; */
+    position: relative;
+    bottom: 6px;
+    margin-left: 10px;
+    color: #4E9FFC;
+    font-weight: 400;
+}
+
+hr {
+    width: 85%;
+    margin: 30px auto;
+    border-top: 1px solid #BFBFBF;
+}
+
+.check-activity {
+    text-align: center;
+    margin: 0 35px 0 35px;
+}
+
+.check-activity button {
+    background-color: #4185F2;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-radius: 7px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.check-activity p{
+    font-weight: 400;
+}
+
+.check-activity a {
+    color: #4E9FFC;
+    font-weight: 400;
+}
